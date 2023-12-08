@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\bin\Debug\net8.0\Comparing.exe
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\bin\Debug\net8.0\Comparing.deps.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\bin\Debug\net8.0\Comparing.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\bin\Debug\net8.0\Comparing.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\bin\Debug\net8.0\Comparing.pdb
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\Comparing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\Comparing.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\Comparing.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\Comparing.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\Comparing.sourcelink.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\Comparing.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\refint\Comparing.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\Comparing.pdb
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\Comparing.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalConcepts\Comparing\obj\Debug\net8.0\ref\Comparing.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Guid")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Comparing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31ef043f3d4e3992c24acebbd1d12044516806c2")]
-[assembly: System.Reflection.AssemblyProductAttribute("Guid")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Guid")]
+[assembly: System.Reflection.AssemblyProductAttribute("Comparing")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Comparing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
