@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 
 namespace StopWatch
 {
@@ -7,6 +8,7 @@ namespace StopWatch
         static void Main(string[] args)
         {
             Menu();
+
         }
 
         static void Start(int time)
@@ -60,7 +62,7 @@ namespace StopWatch
         }
         static bool isValid(string input)
         {
-            bool valid = input.Contains("s") || input.Contains("m") || input.Contains("0");
+            bool valid = input.Contains("s") || input.Contains("m");
             return valid;
 
         }
