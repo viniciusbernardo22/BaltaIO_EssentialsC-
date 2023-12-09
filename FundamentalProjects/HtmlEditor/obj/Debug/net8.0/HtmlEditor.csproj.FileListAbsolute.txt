@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.exe
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.deps.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.pdb
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.sourcelink.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\refint\HtmlEditor.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.pdb
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\FundamentalProjects\HtmlEditor\obj\Debug\net8.0\ref\HtmlEditor.dll
