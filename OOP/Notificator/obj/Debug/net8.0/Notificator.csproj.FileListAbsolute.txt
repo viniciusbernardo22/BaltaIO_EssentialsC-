@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\bin\Debug\net8.0\Notificator.exe
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\bin\Debug\net8.0\Notificator.deps.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\bin\Debug\net8.0\Notificator.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\bin\Debug\net8.0\Notificator.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\bin\Debug\net8.0\Notificator.pdb
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\Notificator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\Notificator.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\Notificator.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\Notificator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\Notificator.sourcelink.json
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\Notificator.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\refint\Notificator.dll
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\Notificator.pdb
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\Notificator.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Courses\Baltaio\OOP\Notificator\obj\Debug\net8.0\ref\Notificator.dll
